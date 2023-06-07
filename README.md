@@ -27,7 +27,7 @@ Em suma, o site funcionará como uma plataforma que reúne estabelecimentos inte
 
 ### Entregável da Disciplina
 
-O entregável da disciplina *Computional Thinking Using Python*, será uma simulação da plataforma.
+O entregável da disciplina *Computational Thinking Using Python*, será uma simulação da plataforma.
 
 ### Instruções de Uso
 
