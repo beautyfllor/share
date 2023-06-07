@@ -2,7 +2,7 @@
 
 Aplicação para empresas realizarem doações de alimentos à ONGs que ajudam famílias necessitadas.
 
-## Integrantes
+### Integrantes
 
 - André Testai Muchao - RM: 99637
 - Caio Davi Gomes Munhoz - RM: 97970
